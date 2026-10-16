@@ -1,0 +1,133 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2026-10-16 14:52:09 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2026-10-16 14:52:09 --> Unable to connect to the database
+ERROR - 2026-10-16 14:52:09 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/system/core/Exceptions.php:272) /var/www/html/system/core/Common.php 571
+ERROR - 2026-10-16 14:52:15 --> 404 Page Not Found: admin//index
+ERROR - 2026-10-16 14:52:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /var/www/html/system/database/drivers/mysqli/mysqli_driver.php 211
+ERROR - 2026-10-16 14:52:25 --> Unable to connect to the database
+ERROR - 2026-10-16 14:52:25 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/system/core/Exceptions.php:272) /var/www/html/system/core/Common.php 571
+ERROR - 2026-10-16 14:55:28 --> Query error: Table 'halalan.sessions' doesn't exist - Invalid query: SELECT `data`
+FROM `sessions`
+WHERE `id` = '89b6954b93a8159929651dacb212da6ded197867'
+ERROR - 2026-10-16 15:10:45 --> 404 Page Not Found: admin//index
+ERROR - 2026-10-16 15:10:47 --> 404 Page Not Found: admin/Indexphp/gate
+ERROR - 2026-10-16 15:11:01 --> 404 Page Not Found: Indexphp/gate
+ERROR - 2026-10-16 15:11:21 --> 404 Page Not Found: Indexphp/gate
+ERROR - 2026-10-16 15:11:46 --> Severity: error --> Exception: Redirect URI must be absolute /var/www/html/application/libraries/vendor/google/auth/src/OAuth2.php 1016
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:22 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:25 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:30 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:35 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:41 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:45 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:13:47 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:44 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public
+ERROR - 2026-10-16 15:14:59 --> 404 Page Not Found: Gate/public

@@ -53,4 +53,5 @@ user_guide/
 config/
 
 # logs
-application/logs/
+application/logs/data/
+data/

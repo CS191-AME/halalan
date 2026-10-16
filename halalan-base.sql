@@ -68,7 +68,7 @@ INSERT INTO `admins` (`id`, `email`, `username`, `salt`, `password`, `passkey`, 
 CREATE TABLE `blocks` (
   `id` int(11) NOT NULL,
   `block` varchar(63) NOT NULL,
-  `description` text DEFAULT ' '
+  `description` text 
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 -- --------------------------------------------------------
@@ -97,7 +97,7 @@ CREATE TABLE `candidates` (
   `party_id` int(11) DEFAULT NULL,
   `election_id` int(11) NOT NULL,
   `position_id` int(11) NOT NULL,
-  `description` text DEFAULT NULL,
+  `description` text ,
   `picture` char(40) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
@@ -167,7 +167,7 @@ CREATE TABLE `parties` (
   `election_id` int(11) NOT NULL,
   `party` varchar(63) NOT NULL,
   `alias` varchar(15) DEFAULT NULL,
-  `description` text DEFAULT NULL,
+  `description` text ,
   `logo` char(40) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
@@ -181,7 +181,7 @@ CREATE TABLE `positions` (
   `id` int(11) NOT NULL,
   `election_id` int(11) NOT NULL,
   `position` varchar(63) NOT NULL,
-  `description` text DEFAULT NULL,
+  `description` text, 
   `maximum` smallint(6) NOT NULL,
   `ordinality` smallint(6) NOT NULL,
   `abstain` varchar(1) NOT NULL
